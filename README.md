@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I am currently studing Full-Stack web developement with Boolean Careers<br>📚 I learned JS, Vue 3, Vite and SASS<br>💻 I’m currently learning php and other backend techologies<br>🤝 I love to work with creative minds!<br>🎮 Larper, rpg gamer and a bit crazy  (●'◡'●)
+🔭 I am currently studing Full-Stack web developement with Boolean Careers<br>📚 I learned JS, Vue 3, Vite and SASS<br>💻 I’m currently learning php, Laravel and other backend techologies<br>🤝 I love to work with creative minds!<br>🎮 Larper, rpg gamer and a bit crazy  (●'◡'●)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-m-793199ab/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/coldshark) 
