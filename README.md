@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I honed my tech stack skills through Boolean Careers' Full-Stack Web Development course and FreeCodeCamp's Responsive Web Design course<br>📚 I learned JS, Vue 3, SASS, PHP and Laravel<br>💻 I’m currently learning Node.js/Nest.js and Typescript<br>🤝 I love to work with creative minds!<br>🎮 Larper, rpg gamer and a bit crazy  (●'◡'●)
+🔭 I honed my tech stack skills through Boolean Careers' Full-Stack Web Development course and FreeCodeCamp's Responsive Web Design course<br>📚 I learned JS, Vue 3, SASS, PHP and Laravel<br>💻 I’m currently learning NodeJS/Nest.js and Typescript<br>🤝 I love to work with creative minds!<br>🎮 Larper, rpg gamer and a bit crazy  (●'◡'●)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-m-793199ab/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/coldshark) 
